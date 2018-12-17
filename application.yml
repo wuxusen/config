@@ -16,7 +16,7 @@ go:
 ---
 #prod的环境
 server:
-  port: 8889
+  port: 8887
 spring:
   profiles: prod
 go:
