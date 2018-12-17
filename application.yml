@@ -1,0 +1,19 @@
+#默认的配置端口
+server:
+  port: 8880
+#需要使用的配置文件
+spring:
+  profiles:
+    active: prod
+---
+#dev的环境
+server:
+  port: 8881
+spring:
+  profiles: dev
+---
+#prod的环境
+server:
+  port: 8882
+spring:
+  profiles: prod
