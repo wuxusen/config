@@ -11,9 +11,13 @@ server:
   port: 8881
 spring:
   profiles: dev
+go:
+  go: go to dev
 ---
 #prod的环境
 server:
   port: 8882
 spring:
   profiles: prod
+go:
+  go: go to prod
