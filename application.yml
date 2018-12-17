@@ -20,4 +20,4 @@ server:
 spring:
   profiles: prod
 go:
-  go: go to prod
+  go: go to prod`````
