@@ -15,4 +15,4 @@ go:
 spring:
   profiles: prod
 go:
-  go: it is a ---
+  go: it is a --☆-
