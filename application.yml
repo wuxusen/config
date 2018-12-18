@@ -1,6 +1,3 @@
-#默认的配置端口
-server:
-  port: 8880
 #需要使用的配置文件
 spring:
   profiles:
